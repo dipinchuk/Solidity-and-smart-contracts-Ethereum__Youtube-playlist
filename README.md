@@ -1,1 +1,1 @@
-# Solidity-and-smart-contracts-Ethereum__Youtube-playlist
+# Solidity-and-smart-contracts-Ethereum__Youtube-tutorial
